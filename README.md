@@ -1,7 +1,3 @@
-Here's a README file for your YouTube channel data fetching project:
-
-***
-
 # YouTube Channel Data Fetcher
 
 A Python script to fetch detailed video statistics from a YouTube channel using the YouTube Data API. The script extracts video metadata, view counts, likes, comments, durations, and engagement metrics, and saves this data as a CSV file.
@@ -71,5 +67,3 @@ The script will fetch all videos, extract statistics, and save to `yt_channel_da
 MIT License — free for personal and educational use.
 
 ***
-
-This README clearly explains the script's purpose, setup, usage, and details. Let me know if you want to add instructions for data analysis or visualization!
