@@ -1,5 +1,21 @@
-# YouTube Channel Data Fetcher
+<!-- readme-refresh 2026-11 -->
+<div align="center">
 
+# ▶️ YouTube Channel Analysis
+
+**Every video of a channel via the YouTube Data API, analysed in Power BI**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+</div>
+
+## ✨ Highlights
+
+- Pulls every video's stats with YouTube Data API v3
+- Computes engagement metrics
+- Exports to Power BI
+
+<!-- body -->
 A Python script to fetch detailed video statistics from a YouTube channel using the YouTube Data API. The script extracts video metadata, view counts, likes, comments, durations, and engagement metrics, and saves this data as a CSV file.
 
 ## Features
@@ -67,3 +83,7 @@ The script will fetch all videos, extract statistics, and save to `yt_channel_da
 MIT License — free for personal and educational use.
 
 ***
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
